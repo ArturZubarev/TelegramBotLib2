@@ -7,7 +7,7 @@
     <list default="true" id="4b7eef92-0b66-4755-ab5b-586b6c5a1faa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/zubarev/command/basic/TextParsingCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/zubarev/command/basic/TextParsingCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/zubarev/storage/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/zubarev/storage/Storage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/zubarev/util/MyKeyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/zubarev/util/MyKeyboard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1675161484551</updated>
       <workItem from="1675161485768" duration="32022000" />
-      <workItem from="1675288348761" duration="1379000" />
+      <workItem from="1675288348761" duration="1675000" />
+      <workItem from="1675329956131" duration="3360000" />
     </task>
     <servers />
   </component>
@@ -90,9 +91,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/zubarev/bot/TelegramBot.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/src/main/java/org/zubarev/command/basic/TextParsingCommand.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/zubarev/command/basic/TextParsingCommand.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

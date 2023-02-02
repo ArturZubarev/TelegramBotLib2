@@ -19,6 +19,8 @@ public class MyKeyboard  {
           KeyboardRow row = new KeyboardRow();
           rows.add(row);
           row.add(new KeyboardButton("/start"));
+          row.add(new KeyboardButton("/info"));
+          row.add(new KeyboardButton("/books"));
           keyboardMarkup.setKeyboard(rows);
      }
 
